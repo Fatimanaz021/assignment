@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    background-image:url(russia-kazan-june-beautiful-white-mosque-bulgars-republic-tatarstan-russia-islam-religion-architecture-russia-kazan-june-162366418.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 470px;
+}
+h1{
+    color: rgb(15, 15, 14);
+    margin-left: 555px;
+}
+input{
+    padding-top: 5px;
+    width: 200px;
+    margin-left: 555px;
+}
+button{
+    padding-top: 5px;
+    width: 200px;
+    margin-left: 555px;
+}
